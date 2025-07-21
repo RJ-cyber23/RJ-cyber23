@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+Rey+John+B.+Marcelo+(RJ)+here!)](https://git.io/typing-svg)
-
 ---
 
-# 👨‍💻 Hi there, I'm Rey John B. Marcelo (RJ)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+Rey+John+B.+Marcelo+(RJ)+here!)](https://git.io/typing-svg)
 
 🎓 BS Information Systems student | 💻 Backend Dev & Linux Enthusiast  
 🔧 Passionate about building software from scratch and mastering real-world development principles.
