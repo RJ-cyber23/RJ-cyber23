@@ -26,7 +26,7 @@
 ---
 
 ## 💻 Languages and Tools:
-
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="100" height="100" alt="Php" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100" height="100" alt="Mysql"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="100" height="100" alt="laravel" />
@@ -43,7 +43,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="100" height="100" alt="git" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100" height="100" alt="github"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100" height="100" alt="vscode"/>
-
+</p>
 ---
 
 
