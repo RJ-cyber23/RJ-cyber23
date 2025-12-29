@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+Rey+John+B.+Marcelo+(RJ)+here!)](https://git.io/typing-svg)
 
 🎓 BS Information Systems student | 💻 Backend Dev & Linux Enthusiast  
-🔧 Passionate about building software from scratch and mastering real-world development principles.
+🔧 Passionate about building software and mastering real-world development principles.
 
 ---
 
@@ -12,8 +12,7 @@
 - 📂 PHP (Vanilla + MVC)
 - 🐘 MySQL & MariaDB
 - 🧱 Bootstrap 5
-- ⚙️ Linux (Mint, Ubuntu, Fedora)
-- 🌐 HTML • CSS • JS (soon...)
+- ⚙️ Linux (Debian)
 
 ---
 
@@ -21,9 +20,11 @@
 
 - **📟 POS Web Application**  
   A custom-built, MVC-structured point-of-sale system powered by pure PHP & Bootstrap.
+- **Inventory System**
+  It's for scalable, speed, and security development.
 
 - **📏 Personal Linux Toolkit**  
-  Configuring Linux distros, system tools, and Dev environments manually.
+  Configuring Linux distros, system tools, and Dev environments.
 
 ---
 
