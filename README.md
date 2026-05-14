@@ -58,5 +58,5 @@
 ### 📬 Let's Connect:
 
 - **Email:** [reyjohnbmarcelo45@gmail.com](mailto:reyjohnbmarcelo45@gmail.com)
-- **Facebook:** [Rey John Marcelo](https://web.facebook.com/reyjohn.bmarcelo)
-- **LinkedIn:** [Your LinkedIn Profile URL Here]
+- **Facebook:** [RJ Marcelo](https://web.facebook.com/reyjohn.bmarcelo)
+- **LinkedIn:** [RJ Marcelo](https://www.linkedin.com/in/rj-marcelo-4b4b27319/)
