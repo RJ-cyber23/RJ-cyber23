@@ -53,15 +53,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJ-cyber23&layout=compact&theme=radical" alt="Top Langs" />
-<img src="https://github-readme-stats.vercel.app/api?username=RJ-cyber23&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 > "Why use a framework if I haven’t mastered what’s under the hood?"
 
 ### 📬 Let's Connect:
