@@ -7,7 +7,7 @@
 </p>
 
 🎓 **BS Information Systems Student** | 💻 **Backend Dev** | 🐧 **Linux Enthusiast**
-🔧 *Passionate about building software and mastering real-world development principles.*
+*Passionate about building software and mastering real-world development principles.*
 
 ---
 
